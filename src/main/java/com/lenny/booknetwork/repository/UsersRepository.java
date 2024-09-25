@@ -1,6 +1,6 @@
-package com.lenny.usermanagementsystem.repository;
+package com.lenny.booknetwork.repository;
 
-import com.lenny.usermanagementsystem.entity.OurUsers;
+import com.lenny.booknetwork.entity.OurUsers;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

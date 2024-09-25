@@ -1,7 +1,7 @@
-package com.lenny.usermanagementsystem.config;
+package com.lenny.booknetwork.config;
 
-import com.lenny.usermanagementsystem.service.JWTUtils;
-import com.lenny.usermanagementsystem.service.OurUsersDetailsService;
+import com.lenny.booknetwork.service.JWTUtils;
+import com.lenny.booknetwork.service.OurUsersDetailsService;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;

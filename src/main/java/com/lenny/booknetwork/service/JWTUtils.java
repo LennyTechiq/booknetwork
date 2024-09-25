@@ -1,4 +1,4 @@
-package com.lenny.usermanagementsystem.service;
+package com.lenny.booknetwork.service;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;

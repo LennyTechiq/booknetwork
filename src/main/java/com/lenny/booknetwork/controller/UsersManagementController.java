@@ -1,8 +1,8 @@
-package com.lenny.usermanagementsystem.controller;
+package com.lenny.booknetwork.controller;
 
-import com.lenny.usermanagementsystem.dto.UsersDto;
-import com.lenny.usermanagementsystem.entity.OurUsers;
-import com.lenny.usermanagementsystem.service.UsersManagementService;
+import com.lenny.booknetwork.dto.UsersDto;
+import com.lenny.booknetwork.entity.OurUsers;
+import com.lenny.booknetwork.service.UsersManagementService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.core.Authentication;

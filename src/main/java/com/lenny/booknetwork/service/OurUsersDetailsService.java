@@ -1,6 +1,6 @@
-package com.lenny.usermanagementsystem.service;
+package com.lenny.booknetwork.service;
 
-import com.lenny.usermanagementsystem.repository.UsersRepository;
+import com.lenny.booknetwork.repository.UsersRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

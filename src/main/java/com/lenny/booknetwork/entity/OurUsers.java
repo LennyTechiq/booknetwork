@@ -1,4 +1,4 @@
-package com.lenny.usermanagementsystem.entity;
+package com.lenny.booknetwork.entity;
 
 import jakarta.persistence.*;
 import lombok.Data;

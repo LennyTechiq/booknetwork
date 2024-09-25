@@ -1,4 +1,4 @@
-package com.lenny.usermanagementsystem;
+package com.lenny.booknetwork;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

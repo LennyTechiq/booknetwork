@@ -1,9 +1,9 @@
-package com.lenny.usermanagementsystem.dto;
+package com.lenny.booknetwork.dto;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonInclude;
 import lombok.Data;
-import com.lenny.usermanagementsystem.entity.OurUsers;
+import com.lenny.booknetwork.entity.OurUsers;
 
 import java.util.List;
 

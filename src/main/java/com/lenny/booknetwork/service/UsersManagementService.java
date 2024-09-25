@@ -1,8 +1,8 @@
-package com.lenny.usermanagementsystem.service;
+package com.lenny.booknetwork.service;
 
-import com.lenny.usermanagementsystem.dto.UsersDto;
-import com.lenny.usermanagementsystem.entity.OurUsers;
-import com.lenny.usermanagementsystem.repository.UsersRepository;
+import com.lenny.booknetwork.dto.UsersDto;
+import com.lenny.booknetwork.entity.OurUsers;
+import com.lenny.booknetwork.repository.UsersRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
