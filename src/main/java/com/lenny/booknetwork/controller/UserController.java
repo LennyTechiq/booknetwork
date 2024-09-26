@@ -10,7 +10,8 @@ import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
-public class UsersManagementController {
+@RequestMapping("/api/users")
+public class UserController {
     @Autowired
     private UsersManagementService usersManagementService;
 
